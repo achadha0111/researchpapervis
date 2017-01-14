@@ -1,0 +1,564 @@
+{
+	"nodes": [{
+		"noOfCitations": "4",
+		"paperId": "0",
+		"authors": "V Melnyk, V Ashok, Y Puzis, A Soviak -   Conference on Web  , 2014 - Springer",
+		"title": "Widget classification with applications to web accessibility"
+	}, {
+		"noOfCitations": "6",
+		"paperId": "1",
+		"authors": "AG Schiavone, F Patern - Universal Access in the Information Society, 2015 - Springer",
+		"title": "An extensible environment for guideline-based accessibility evaluation of dynamic Web applications"
+	}, {
+		"noOfCitations": "6",
+		"paperId": "2",
+		"authors": "L DeLancey - Library Hi Tech, 2015 - emeraldinsight.com",
+		"title": "Assessing the accuracy of vendor-supplied accessibility documentation"
+	}, {
+		"noOfCitations": "4",
+		"paperId": "3",
+		"authors": "G Miranda, A Martn, R Mazalu, G Gaetn -   de Ciencias de la  , 2013 - sedici.unlp.edu.ar",
+		"title": "Agentes inteligentes para propiciar la accesibilidad web"
+	}, {
+		"noOfCitations": "2",
+		"paperId": "4",
+		"authors": "A Brown, S Harper - Proceedings of the 10th International Cross- , 2013 - dl.acm.org",
+		"title": "Dynamic injection of WAI-ARIA into Web content"
+	}, {
+		"noOfCitations": "",
+		"paperId": "5",
+		"authors": "S Gutirrez Gmez-calcerrada, E Solera Hernndez - 2015 - gredos.usal.es",
+		"title": "[CITATION][C] An approach to the reality of the virtual learning environments of Spanish universities: the first challenge for a personalized education for people with"
+	}, {
+		"noOfCitations": "",
+		"paperId": "6",
+		"authors": "WM Watanabe, RP de Mattos Fortes - Proceedings of the 31st Annual  , 2016 - dl.acm.org",
+		"title": "Automatic identification of drop-down menu widgets using mutation observers and visibility changes"
+	}, {
+		"noOfCitations": "",
+		"paperId": "7",
+		"authors": "A Ismail, KS Kuppusamy - Journal of King Saud University-Computer and  , 2016 - Elsevier",
+		"title": "[HTML][HTML] Accessibility of Indian universities' homepages: An exploratory study"
+	}, {
+		"noOfCitations": "1",
+		"paperId": "8",
+		"authors": "V Melnyk, V Ashok, V Melnyk, Y Puzis -   of the 12th Web for All  , 2015 - dl.acm.org",
+		"title": "Look Ma, no ARIA: generic accessible interfaces for web widgets"
+	}, {
+		"noOfCitations": "",
+		"paperId": "9",
+		"authors": "LS Pereira, D Archambault -   on Computers Helping People with Special  , 2016 - Springer",
+		"title": "Understanding How People with Cerebral Palsy Interact with the Web 2.0"
+	}, {
+		"noOfCitations": "1",
+		"paperId": "10",
+		"authors": "O Daz, I Aldalur, C Arellano, H Medina - Rapid Mashup  , 2016 - Springer",
+		"title": "Web mashups with WebMakeup"
+	}, {
+		"noOfCitations": "1",
+		"paperId": "11",
+		"authors": "V Melnyk, V Ashok, V Melnyk, Y Puzis -   of the 12th Web for All  , 2015 - dl.acm.org",
+		"title": "Look Ma, no ARIA: generic accessible interfaces for web widgets"
+	}, {
+		"noOfCitations": "",
+		"paperId": "12",
+		"authors": "V Melnyk - Proceedings of the 16th international ACM  , 2014 - dl.acm.org",
+		"title": "Accessible web chat interface"
+	}, {
+		"noOfCitations": "",
+		"paperId": "13",
+		"authors": "S Firmenich -   Tools: First International Rapid Mashup Challenge, , 2016 - books.google.com",
+		"title": "Web Mashups with WebMakeup"
+	}, {
+		"noOfCitations": "",
+		"paperId": "14",
+		"authors": "C Pautasso, F Daniel - Rapid Mashup Development Tools, 2016 - Springer",
+		"title": "Challenge Outcome and Conclusion"
+	}, {
+		"noOfCitations": "",
+		"paperId": "15",
+		"authors": "U Cedeo, C Oswaldo - 2016 - repositorio.utmachala.edu.ec",
+		"title": "Consideraciones Para Implementar Sitios Web Con Mayor Accesibilidad Para Personas Con Discapacidad Visual Total O Parcial"
+	}, {
+		"noOfCitations": "2",
+		"paperId": "16",
+		"authors": "F Patern, AG Schiavone - interactions, 2015 - dl.acm.org",
+		"title": "The role of tool support in public policies and accessibility"
+	}, {
+		"noOfCitations": "",
+		"paperId": "17",
+		"authors": "S Bouzit, G Calvary, D Chne - ROCHI , 2016 - dial.uclouvain.be",
+		"title": "[PDF][PDF] Automated Evaluation of Menu by Guidelines Review"
+	}, {
+		"noOfCitations": "1",
+		"paperId": "18",
+		"authors": "R Maisak - 2015 - ro.ecu.edu.au",
+		"title": "Accessibility of Thai university websites: Awareness, barriers and drivers for accessible practice"
+	}, {
+		"noOfCitations": "",
+		"paperId": "19",
+		"authors": "AG Schiavone - 2016 - researchgate.net",
+		"title": "[PDF][PDF] Accessibilite Pubblica Amministrazione."
+	}, {
+		"noOfCitations": "",
+		"paperId": "20",
+		"authors": "I Khaddam, S Bouzit, G Calvary, D Chne - Actes de la 28ime  , 2016 - dl.acm.org",
+		"title": "MenuErgo: computer-aided design of menus by automated guideline review"
+	}, {
+		"noOfCitations": "",
+		"paperId": "21",
+		"authors": "I Khaddam, S Bouzit, G Calvary - Actes de la 28ime  , 2016 - hal.archives-ouvertes.fr",
+		"title": "MenuErgo: Conception assiste de menus par valuation automatique de rgles ergonomiques"
+	}, {
+		"noOfCitations": "",
+		"paperId": "22",
+		"authors": "C Loitsch, G Weber, J Voegler - International Conference on Computers  , 2016 - Springer",
+		"title": "Teaching Accessibility with Personas"
+	}, {
+		"noOfCitations": "",
+		"paperId": "23",
+		"authors": "AG Schiavone - 2016 - researchgate.net",
+		"title": "[PDF][PDF] Accessibilite Pubblica Amministrazione."
+	}, {
+		"noOfCitations": "",
+		"paperId": "24",
+		"authors": "M Saleem - 2016 - ro.ecu.edu.au",
+		"title": "Web accessibility compliance for e-Government websites in the Gulf region"
+	}, {
+		"noOfCitations": "1",
+		"paperId": "25",
+		"authors": "LIG Prez, MSR Montoya - Proceedings of the Fourth  , 2016 - dl.acm.org",
+		"title": "Discovery tools for open access repositories: a literature mapping"
+	}, {
+		"noOfCitations": "1",
+		"paperId": "26",
+		"authors": "K Falloon - Accessibility for persons with disabilities and the  , 2015 - emeraldinsight.com",
+		"title": "A Case Study in Practice: Providing Accessibility for Persons with Disabilities at the College of Staten Island Library"
+	}, {
+		"noOfCitations": "",
+		"paperId": "27",
+		"authors": "LI Gonzlez-Prez - 2016 - repositorio.grial.eu",
+		"title": "Presentation of the paper Discovery Tools for Open Access Repositories: A Literature Mapping"
+	}, {
+		"noOfCitations": "",
+		"paperId": "28",
+		"authors": "J Oud - Information Technology and Libraries, 2016 - ejournals.bc.edu",
+		"title": "Accessibility of Vendor-Created Database Tutorials for People with Disabilities"
+	}, {
+		"noOfCitations": "",
+		"paperId": "29",
+		"authors": "A Mulliken, M Djenno - The Library Quarterly, 2017 - journals.uchicago.edu",
+		"title": "Faculty Visions for Teaching Web Accessibility within LIS Curricula in the United States: A Qualitative Study"
+	}, {
+		"noOfCitations": "",
+		"paperId": "30",
+		"authors": "K Ostergaard - The Serials Librarian, 2015 - Taylor & Francis",
+		"title": "Accessibility from Scratch: One Library's Journey to Prioritize the Accessibility of Electronic Information Resources"
+	}, {
+		"noOfCitations": "",
+		"paperId": "31",
+		"authors": "LI Gonzlez-Prez - 2016 - repositorio.grial.eu",
+		"title": "Presentation of the paper - Discovery Tools for Open Access Repositories: A Literature Mapping"
+	}, {
+		"noOfCitations": "",
+		"paperId": "32",
+		"authors": "L Rutledge, S LeMire - Public Services Quarterly, 2016 - Taylor & Francis",
+		"title": "Beyond Disciplines: Providing Outreach to Underserved Groups by Demographic"
+	}, {
+		"noOfCitations": "3",
+		"paperId": "33",
+		"authors": "MG Miranda, AE Martin, V Saldao - Informes Cientficos- , 2014 - ict.unpa.edu.ar",
+		"title": "Usabilidad y accesibilidad en las redes sociales"
+	}, {
+		"noOfCitations": "6",
+		"paperId": "34",
+		"authors": "M Gonzlez, H Sosa, AE Martin - Informes Cientficos-Tcnicos  , 2014 - ict.unpa.edu.ar",
+		"title": "Sistemas de comunicacin no verbales"
+	}, {
+		"noOfCitations": "2",
+		"paperId": "35",
+		"authors": "SI Mario, PL Alfonzo, JE Escalante -   de Informtica e  , 2014 - sedici.unlp.edu.ar",
+		"title": "Accesibilidad Web en un sistema de administracin acadmica desde dispositivos mviles"
+	}, {
+		"noOfCitations": "",
+		"paperId": "36",
+		"authors": "SI Mario, PL Alfonzo - XI Congreso de  , 2016 - sedici.unlp.edu.ar",
+		"title": "Abordaje de la Accesibilidad Web en la formacin de Recursos Humanos"
+	}, {
+		"noOfCitations": "1",
+		"paperId": "37",
+		"authors": "D Vilte, VE Saldao, G Gaetn -   Cientfico Tcnico UNPA, 2015 - dialnet.unirioja.es",
+		"title": "Identificando barreras en la interaccin con facebook: una experiencia con adultos mayores de la Patagonia Austral"
+	}, {
+		"noOfCitations": "",
+		"paperId": "38",
+		"authors": "A Martn, G Gaetn, VE Saldao - XVIII Workshop de  , 2016 - sedici.unlp.edu.ar",
+		"title": "Evaluaciones de Accesibilidad y Usabilidad en la WWW: Propuestas para Mejorar la Experiencia del Usuario"
+	}, {
+		"noOfCitations": "1",
+		"paperId": "39",
+		"authors": "A Martn, G Gaetn, VE Saldao - XVII Workshop de  , 2015 - sedici.unlp.edu.ar",
+		"title": "Hacia una WWW a la medida de las personas: identificacin, desarrollo y uso de soluciones web centradas en el usuario"
+	}, {
+		"noOfCitations": "1",
+		"paperId": "40",
+		"authors": "D Vilte, VE Saldao, G Gaetn -   Cientfico Tcnico UNPA, 2015 - dialnet.unirioja.es",
+		"title": "Identificando barreras en la interaccin con facebook: una experiencia con adultos mayores de la Patagonia Austral"
+	}, {
+		"noOfCitations": "",
+		"paperId": "41",
+		"authors": "A Martn, G Gaetn, VE Saldao - XVIII Workshop de  , 2016 - sedici.unlp.edu.ar",
+		"title": "Evaluaciones de Accesibilidad y Usabilidad en la WWW: Propuestas para Mejorar la Experiencia del Usuario"
+	}, {
+		"noOfCitations": "1",
+		"paperId": "42",
+		"authors": "A Martn, G Gaetn, VE Saldao - XVII Workshop de  , 2015 - sedici.unlp.edu.ar",
+		"title": "Hacia una WWW a la medida de las personas: identificacin, desarrollo y uso de soluciones web centradas en el usuario"
+	}, {
+		"noOfCitations": "",
+		"paperId": "43",
+		"authors": "A Martn, G Gaetn, VE Saldao - XVIII Workshop de  , 2016 - sedici.unlp.edu.ar",
+		"title": "Evaluaciones de Accesibilidad y Usabilidad en la WWW: Propuestas para Mejorar la Experiencia del Usuario"
+	}, {
+		"noOfCitations": "",
+		"paperId": "44",
+		"authors": "A Martn, G Gaetn, VE Saldao - XVIII Workshop de  , 2016 - sedici.unlp.edu.ar",
+		"title": "Evaluaciones de Accesibilidad y Usabilidad en la WWW: Propuestas para Mejorar la Experiencia del Usuario"
+	}, {
+		"noOfCitations": "",
+		"paperId": "45",
+		"authors": "V lvarez Rodrguez - 2015 - uvadoc.uva.es",
+		"title": "Propuesta de intervencin para la enseanza de un SAC a un nio con Sndrome de Down"
+	}, {
+		"noOfCitations": "",
+		"paperId": "46",
+		"authors": "SM Labrador - Investigacin & Desarrollo, 2016 - search.proquest.com",
+		"title": "Internal communication in labor inclusion of people with hearing impairment in Bogot"
+	}, {
+		"noOfCitations": "",
+		"paperId": "47",
+		"authors": "S Melndez-Labrador - Investigacin y Desarrollo, 2016 - search.ebscohost.com",
+		"title": "COMUNICACIN INTERNA INCLUYENTE: DOS ESTUDIOS DE CASO DE INCLUSIN LABORAL DE PERSONAS CON DISCAPACIDAD AUDITIVA EN BOGOT."
+	}, {
+		"noOfCitations": "",
+		"paperId": "48",
+		"authors": "S Melndez-Labrador - Investigacin y Desarrollo, 2016 - scielo.org.co",
+		"title": "[HTML][HTML] Internal communication in labor inclusin of people with hearing impairment in Bogot: two case studies"
+	}, {
+		"noOfCitations": "",
+		"paperId": "49",
+		"authors": "LQ Snchez - Revista Aret, 2015 - dialnet.unirioja.es",
+		"title": "[PDF][PDF] Comunicacin aumentativa y alternativa como estrategia fonoaudiolgica"
+	}, {
+		"noOfCitations": "1",
+		"paperId": "50",
+		"authors": "A Martn, G Gaetn, VE Saldao - XVII Workshop de  , 2015 - sedici.unlp.edu.ar",
+		"title": "Hacia una WWW a la medida de las personas: identificacin, desarrollo y uso de soluciones web centradas en el usuario"
+	}, {
+		"noOfCitations": "",
+		"paperId": "51",
+		"authors": "A Martn, G Gaetn, VE Saldao - XVIII Workshop de  , 2016 - sedici.unlp.edu.ar",
+		"title": "Evaluaciones de Accesibilidad y Usabilidad en la WWW: Propuestas para Mejorar la Experiencia del Usuario"
+	}, {
+		"noOfCitations": "1",
+		"paperId": "52",
+		"authors": "SI Mario, MV Godoy, PL Alfonzo - XVII Workshop de  , 2015 - sedici.unlp.edu.ar",
+		"title": "Mtodos y herramientas de las WCAG 2.0 en el desarrollo web"
+	}, {
+		"noOfCitations": "",
+		"paperId": "53",
+		"authors": "SI Mario, PL Alfonzo - XI Congreso de  , 2016 - sedici.unlp.edu.ar",
+		"title": "Abordaje de la Accesibilidad Web en la formacin de Recursos Humanos"
+	}, {
+		"noOfCitations": "",
+		"paperId": "54",
+		"authors": "SI Mario, MV Godoy Guglielmone - XVIII Workshop de  , 2016 - sedici.unlp.edu.ar",
+		"title": "Evolucin del software: La Accesibilidad Web en Sistemas Gestores de Contenidos de libre distribucin"
+	}, {
+		"noOfCitations": "",
+		"paperId": "55",
+		"authors": "J Mouka - 2013 - openresearch.ocadu.ca",
+		"title": "[PDF][PDF] Designing an Accessible Web Technology"
+	}, {
+		"noOfCitations": "",
+		"paperId": "56",
+		"authors": "U Cedeo, C Oswaldo - 2016 - repositorio.utmachala.edu.ec",
+		"title": "Consideraciones Para Implementar Sitios Web Con Mayor Accesibilidad Para Personas Con Discapacidad Visual Total O Parcial"
+	}, {
+		"noOfCitations": "",
+		"paperId": "57",
+		"authors": "WM Watanabe, RPM Fortes, AL Dias - Universal Access in the Information  , 2015 - Springer",
+		"title": "Acceptance tests for validating ARIA requirements in widgets"
+	}, {
+		"noOfCitations": "1",
+		"paperId": "58",
+		"authors": "R Mazalu, A Cechich -   de Ingeniera de Software (ASSE 2015)- , 2015 - sedici.unlp.edu.ar",
+		"title": "Soporte inteligente para la evaluacin de accesibilidad web relacionada con limitaciones visuales"
+	}, {
+		"noOfCitations": "",
+		"paperId": "59",
+		"authors": "S Gutirrez Gmez-calcerrada, E Solera Hernndez - Enseanza, 2015 - gredos.usal.es",
+		"title": "Una aproximacin a la realidad de las plataformas virtuales de las universidades espaolas: el primer reto para una educacin personalizada en personas con"
+	}, {
+		"noOfCitations": "",
+		"paperId": "60",
+		"authors": "SG Gmez-Calcerrada, ES Hernndez - Enseanza &  , 2015 - search.proquest.com",
+		"title": "UNA APROXIMACIN A LA REALIDAD DE LAS PLATAFORMAS VIRTUALES DE LAS UNIVERSIDADES ESPAOLAS: EL PRIMER RETO PARA UNA EDUCACIN"
+	}, {
+		"noOfCitations": "2",
+		"paperId": "61",
+		"authors": "MG Miranda, AE Martin, G Gaetan - Informes Cientficos-Tcnicos  , 2014 - ict.unpa.edu.ar",
+		"title": "Mejora de la accesibilidad web mediante el uso de agentes inteligentes"
+	}, {
+		"noOfCitations": "",
+		"paperId": "68",
+		"authors": "A Buccella, JM Luzuriaga, A Cechich - XVIII Workshop de  , 2016 - sedici.unlp.edu.ar",
+		"title": "Reuso orientado a dominios: hacia un proceso integral de desarrollo de lneas de productos de software"
+	}, {
+		"noOfCitations": "",
+		"paperId": "69",
+		"authors": "A Martn, G Gaetn, VE Saldao - XVIII Workshop de  , 2016 - sedici.unlp.edu.ar",
+		"title": "Evaluaciones de Accesibilidad y Usabilidad en la WWW: Propuestas para Mejorar la Experiencia del Usuario"
+	}, {
+		"noOfCitations": "",
+		"paperId": "70",
+		"authors": "U Cedeo, C Oswaldo - 2016 - repositorio.utmachala.edu.ec",
+		"title": "Consideraciones Para Implementar Sitios Web Con Mayor Accesibilidad Para Personas Con Discapacidad Visual Total O Parcial"
+	}, {
+		"noOfCitations": "16",
+		"paperId": "71",
+		"authors": "AQ Chen, S Harper, D Lunn, A Brown - World Wide Web, 2013 - Springer",
+		"title": "Widget identification: A high-level approach to accessibility"
+	}, {
+		"noOfCitations": "1",
+		"paperId": "72",
+		"authors": "SI Mariño, MV Godoy, PL Alfonzo - XVII Workshop de …, 2015 - sedici.unlp.edu.ar",
+		"title": "Métodos y herramientas de las WCAG 2.0 en el desarrollo web"
+	}, {
+		"noOfCitations": "",
+		"paperId": "73",
+		"authors": "SI Mariño, PL Alfonzo… - XI Congreso de …, 2016 - sedici.unlp.edu.ar",
+		"title": "Abordaje de la Accesibilidad Web en la formación de Recursos Humanos"
+	}, {
+		"noOfCitations": "",
+		"paperId": "74",
+		"authors": "SI Mariño, MV Godoy Guglielmone… - XVIII Workshop de …, 2016 - sedici.unlp.edu.ar",
+		"title": "Evolución del software: La Accesibilidad Web en Sistemas Gestores de Contenidos de libre distribución"
+	}, {
+		"noOfCitations": "0",
+		"paperId": "75",
+		"authors": "DAS Al-Thani - 2016 - qmro.qmul.ac.uk",
+		"title": "Understanding and Supporting Cross-modal Collaborative Information Seeking"
+	}],
+	"links": [{
+		"source": "71",
+		"target": "0"
+	}, {
+		"source": "71",
+		"target": "1"
+	}, {
+		"source": "71",
+		"target": "2"
+	}, {
+		"source": "71",
+		"target": "3"
+	}, {
+		"source": "71",
+		"target": "4"
+	}, {
+		"source": "71",
+		"target": "5"
+	}, {
+		"source": "71",
+		"target": "6"
+	}, {
+		"source": "71",
+		"target": "7"
+	}, {
+		"source": "71",
+		"target": "8"
+	}, {
+		"source": "71",
+		"target": "9"
+	}, {
+		"source": "71",
+		"target": "56"
+	}, {
+		"source": "71",
+		"target": "57"
+	}, {
+		"source": "71",
+		"target": "58"
+	}, {
+		"source": "71",
+		"target": "59"
+	}, {
+		"source": "71",
+		"target": "60"
+	}, {
+		"source": "71",
+		"target": "61"
+	}, {
+		"source": "0",
+		"target": "10"
+	}, {
+		"source": "0",
+		"target": "11"
+	}, {
+		"source": "0",
+		"target": "12"
+	}, {
+		"source": "0",
+		"target": "13"
+	}, {
+		"source": "10",
+		"target": "14"
+	}, {
+		"source": "10",
+		"target": "14"
+	}, {
+		"source": "8",
+		"target": "15"
+	}, {
+		"source": "1",
+		"target": "16"
+	}, {
+		"source": "1",
+		"target": "17"
+	}, {
+		"source": "1",
+		"target": "18"
+	}, {
+		"source": "1",
+		"target": "19"
+	}, {
+		"source": "1",
+		"target": "20"
+	}, {
+		"source": "1",
+		"target": "21"
+	}, {
+		"source": "2",
+		"target": "25"
+	}, {
+		"source": "2",
+		"target": "26"
+	}, {
+		"source": "2",
+		"target": "27"
+	}, {
+		"source": "2",
+		"target": "28"
+	}, {
+		"source": "2",
+		"target": "29"
+	}, {
+		"source": "2",
+		"target": "30"
+	}, {
+		"source": "3",
+		"target": "33"
+	}, {
+		"source": "3",
+		"target": "34"
+	}, {
+		"source": "3",
+		"target": "35"
+	}, {
+		"source": "3",
+		"target": "36"
+	}, {
+		"source": "4",
+		"target": "55"
+	}, {
+		"source": "4",
+		"target": "56"
+	}, {
+		"source": "8",
+		"target": "15"
+	}, {
+		"source": "56",
+		"target": "15"
+	}, {
+		"source": "61",
+		"target": "38"
+	}, {
+		"source": "61",
+		"target": "15"
+	}, {
+		"source": "16",
+		"target": "22"
+	}, {
+		"source": "16",
+		"target": "23"
+	}, {
+		"source": "18",
+		"target": "24"
+	}, {
+		"source": "25",
+		"target": "27"
+	}, {
+		"source": "26",
+		"target": "32"
+	}, {
+		"source": "33",
+		"target": "37"
+	}, {
+		"source": "33",
+		"target": "38"
+	}, {
+		"source": "33",
+		"target": "39"
+	}, {
+		"source": "34",
+		"target": "45"
+	}, {
+		"source": "34",
+		"target": "46"
+	}, {
+		"source": "34",
+		"target": "47"
+	}, {
+		"source": "34",
+		"target": "48"
+	}, {
+		"source": "34",
+		"target": "49"
+	}, {
+		"source": "34",
+		"target": "50"
+	}, {
+		"source": "35",
+		"target": "72"
+	}, {
+		"source": "35",
+		"target": "73"
+	}, {
+		"source": "37",
+		"target": "38"
+	}, {
+		"source": "39",
+		"target": "38"
+	}, {
+		"source": "40",
+		"target": "38"
+	}, {
+		"source": "42",
+		"target": "38"
+	}, {
+		"source": "50",
+		"target": "38"
+	}, {
+		"source": "52",
+		"target": "74"
+	}, {
+		"source": "61",
+		"target": "38"
+	}, {
+		"source": "61",
+		"target": "56"
+	}, {
+		"source": "72",
+		"target": "56"
+	}]
+}
